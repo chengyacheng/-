@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fa0b2a5-2274-4be6-a751-ee1baa5a554d" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/java/com/wlc/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/java/com/wlc/config/GuavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/java/com/wlc/config/ThreadPoolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/java/com/wlc/config/ThreadPoolConfigProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/java/com/wlc/config/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/java/com/wlc/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/resources/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/resources/mybatis/config/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/main/resources/mybatis/mapper/frame_case_mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-app/src/test/java/com/wlc/test/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/xxx/adapter/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/xxx/model/aggregate/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/xxx/model/entity/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/xxx/model/valobj/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/xxx/repository/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/xxx/service/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/yyy/model/aggregate/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/yyy/model/entity/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/yyy/model/valobj/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/yyy/repository/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-domain/src/main/java/com/wlc/domain/yyy/service/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-infrastructure/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-infrastructure/src/main/java/com/wlc/infrastructure/gateway/adapter/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-infrastructure/src/main/java/com/wlc/infrastructure/gateway/api/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-infrastructure/src/main/java/com/wlc/infrastructure/gateway/dto/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-infrastructure/src/main/java/com/wlc/infrastructure/persistent/dao/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-infrastructure/src/main/java/com/wlc/infrastructure/persistent/po/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-infrastructure/src/main/java/com/wlc/infrastructure/persistent/repository/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-trigger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-trigger/src/main/java/com/wlc/trigger/http/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-trigger/src/main/java/com/wlc/trigger/job/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-trigger/src/main/java/com/wlc/trigger/listener/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-types/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-types/src/main/java/com/wlc/types/common/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-types/src/main/java/com/wlc/types/enums/ResponseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-market-wlc-types/src/main/java/com/wlc/types/exception/AppException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/dev-ops/app/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/dev-ops/app/stop.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/dev-ops/docker-compose-app.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/dev-ops/docker-compose-environment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/dev-ops/mysql/sql/xfg-frame-archetype.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2g2YERE6uVxUgNCNzj7Syuyhbvl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="big-market-wlc-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wlc.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0fa0b2a5-2274-4be6-a751-ee1baa5a554d" name="更改" comment="" />
+      <created>1714897028947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714897028947</updated>
+      <workItem from="1714897029745" duration="1723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
